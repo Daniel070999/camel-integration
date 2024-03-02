@@ -1,0 +1,1 @@
+docker run -e POSTGRES_USER=camel -e POSTGRES_PASSWORD=camel -p 5432:5432 -d postgres:15
